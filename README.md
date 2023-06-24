@@ -1,2 +1,6 @@
-# frontend-practice
-웹 프론트엔드 기술스택 basic
+# 🐣 frontend-practice 🐣
+
+- React basic
+
+   - react-router-example : React Routing 에 대한 이해
+
