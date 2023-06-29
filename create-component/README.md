@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🌼 echarts (차트 라이브러리)
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
 
-### `npm start`
+## 📕 Line chart (필터적용)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![](https://velog.velcdn.com/images/iui9686/post/b68d7156-b86c-4666-bee5-6f737638d778/image.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
+<br>
 
-### `npm test`
+## 📙 pie chart (색 규칙 적용)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](https://velog.velcdn.com/images/iui9686/post/b99a942b-9c28-403d-86a8-940594a2dc9c/image.png)
 
-### `npm run build`
+<br>
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📒 Bar Chart
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![](https://velog.velcdn.com/images/iui9686/post/1d0aace0-12e9-4ed9-b4ef-b2f953931498/image.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
+<br>
 
-### `npm run eject`
+## 📗 Multi Chart
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![](https://velog.velcdn.com/images/iui9686/post/0bb29697-e311-43a6-aef1-dda6bc078ee2/image.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 📘 Area Chart
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![](https://velog.velcdn.com/images/iui9686/post/36946dd2-b55d-4edc-9a00-5bd6b1cad35b/image.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<br>
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 📃 차트형 ScoreCard
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+![](https://velog.velcdn.com/images/iui9686/post/700e294b-bded-43e7-9070-7511cf371f0e/image.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
+<br>
+<br>
 
-### Advanced Configuration
+# 🌼 Ant Design (UI 구성 요소 라이브러리)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
+## 📕 숫자형 ScoreCard
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![](https://velog.velcdn.com/images/iui9686/post/5cc285f6-0692-4884-9983-8120ad88111f/image.png)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<br>
+
+## 📙 TableBasic
+
+![](https://velog.velcdn.com/images/iui9686/post/3f3eaa2e-f939-4fd5-8ba7-381b7232d652/image.png)
+
+<br>
+<br>
+
+## 📒 Table (소팅, 엑셀다운로드, 페이징)
+![](https://velog.velcdn.com/images/iui9686/post/75794f11-4057-459e-8b6d-ae6689ad0bcf/image.png)
+
+<br>
+<br>
+
+## 📗 Table (row펼침, 검색, 체크박스, pagesize변경)
+
+![](https://velog.velcdn.com/images/iui9686/post/343356fb-364f-41a2-bc2f-bad84f82e2fd/image.png)
+
+
+<br>
+<br>
